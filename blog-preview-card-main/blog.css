@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(255, 230, 0, 0.699);
+}
+.Card img {
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+}
+.Learning {
+    background-color: rgba(255, 166, 0, 0.781);
+    height: 40px;
+    width: 144px;
+    border-radius:30px ; 
+}
+
+.h1-1 {
+    color: rgba(255, 166, 0, 0.89);
+}
+
+.person {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}
+ 
